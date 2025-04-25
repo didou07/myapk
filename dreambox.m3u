@@ -1,0 +1,95 @@
+#EXTM3U
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,BeIN SPORTS HD1
+#EXTVLCOPT:program=257
+http://192.168.1.36:8001/1:0:1:101:1:0:1E2F44:0:0:0:
+
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,BeIN SPORTS HD2
+#EXTVLCOPT:program=258
+http://192.168.1.36:8001/1:0:1:102:1:0:1E2F44:0:0:0:
+
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,BeIN SPORTS HD3
+#EXTVLCOPT:program=259
+http://192.168.1.36:8001/1:0:1:103:1:0:1E2F44:0:0:0:
+
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,BeIN SPORTS HD4
+#EXTVLCOPT:program=260
+http://192.168.1.36:8001/1:0:1:104:1:0:1E2F44:0:0:0:
+
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,BeIN SPORTS HD5
+#EXTVLCOPT:program=261
+http://192.168.1.36:8001/1:0:1:105:1:0:1E2F44:0:0:0:
+
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,BeIN SPORTS HD6
+#EXTVLCOPT:program=262
+http://192.168.1.36:8001/1:0:1:106:1:0:1E2F44:0:0:0:
+
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,BeIN SPORTS HD7
+#EXTVLCOPT:program=263
+http://192.168.1.36:8001/1:0:1:107:1:0:1E2F44:0:0:0:
+
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,BeIN SPORTS HD8
+#EXTVLCOPT:program=264
+http://192.168.1.36:8001/1:0:1:108:1:0:1E2F44:0:0:0:
+
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Abu Dhabi sport
+#EXTVLCOPT:program=513
+http://192.168.1.36:8001/1:0:1:201:1:0:1E2F44:0:0:0:
+
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,SSC-HD1
+#EXTVLCOPT:program=514
+http://192.168.1.36:8001/1:0:1:202:1:0:1E2F44:0:0:0:
+
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,SSC-HD5
+#EXTVLCOPT:program=515
+http://192.168.1.36:8001/1:0:1:203:1:0:1E2F44:0:0:0:
+
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Eleven sport1
+#EXTVLCOPT:program=516
+http://192.168.1.36:8001/1:0:1:204:1:0:1E2F44:0:0:0:
+
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Eleven sport2
+#EXTVLCOPT:program=517
+http://192.168.1.36:8001/1:0:1:205:1:0:1E2F44:0:0:0:
+
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Eleven sport3
+#EXTVLCOPT:program=518
+http://192.168.1.36:8001/1:0:1:206:1:0:1E2F44:0:0:0:
+
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,BBC earth
+#EXTVLCOPT:program=519
+http://192.168.1.36:8001/1:0:1:207:1:0:1E2F44:0:0:0:
+
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,beIN DRAMA
+#EXTVLCOPT:program=520
+http://192.168.1.36:8001/1:0:1:208:1:0:1E2F44:0:0:0:
+
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,beIN MOVIES
+#EXTVLCOPT:program=521
+http://192.168.1.36:8001/1:0:1:209:1:0:1E2F44:0:0:0:
+
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,BARAEEM
+#EXTVLCOPT:program=522
+http://192.168.1.36:8001/1:0:1:20A:1:0:1E2F44:0:0:0:
+
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,MBC1 HD
+#EXTVLCOPT:program=523
+http://192.168.1.36:8001/1:0:1:20B:1:0:1E2F44:0:0:0:
